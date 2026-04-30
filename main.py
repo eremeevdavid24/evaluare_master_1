@@ -1,5 +1,5 @@
 def main():
-    print("Workflow  application runni")
+    print("Workflow  application")
     print("This project simulates a CI workflow.")
 
 
