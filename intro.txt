@@ -1,0 +1,8 @@
+Acest proiect este un exemplu simplu de workflow pentru o aplicație Python.
+
+Scop:
+- înțelegerea automatizării
+- utilizarea GitHub Actions
+- rularea automată a aplicației la fiecare actualizare
+
+Workflow-ul ajută la testarea și validarea codului fără intervenție manuală.
